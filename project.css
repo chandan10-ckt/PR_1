@@ -1,0 +1,149 @@
+body{
+	font-family: 'Courgette', cursive;
+	/*background-color: #011627;*/
+	color: black;
+	text-align: center;
+	/*border: 20px solid #2EC486;
+	border-top: 0px;*/
+	margin: 0px;
+	background-image: url("/img/back.jpg");
+}
+h1{
+	font-size: 40px;
+	/*text-shadow: 10px 10px red;*/
+}
+h4{
+	font-size: 20px;
+}
+p{
+	font-size: 20px;
+	padding-bottom: 2%;
+	padding-left: 20%;
+	padding-right: 20%;
+}
+
+form{
+	font-size: 1em;
+	margin-bottom: 200px;
+}
+
+.imgage{
+	position: relative;
+	text-align: center;
+	color: #B22222;
+
+}
+
+.centered{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+
+
+#sub{
+	background-color: #FF9F1c;
+	height: 50px;
+	width: 100px;
+	margin: 20px;
+	margin-top: 30px;
+	font-size: .5em;
+	border-radius: 1000px;
+
+}
+.Mess_Conv{
+	/*background-color: yellow;*/
+	padding-top: 100px
+	font-size: 20px;
+	color: green;
+
+}
+.city_rep{
+	/*background-color: green;*/
+	font-size: 20px;
+	color: green;
+}
+.marky{
+	font-size: 20px;
+	color: green;
+}
+
+.cont{
+	font-size: 20px;
+	text-align: right;
+	padding-bottom: 0px;
+	padding-right: 0px;
+	align-self: right;
+
+
+}
+.personal-contact{
+	font-size: 20px;
+	text-align: left;
+	color: blue;
+	padding-bottom: 0px;
+}
+
+
+
+.thanks{
+	color: blue;
+	/*top: 200px;*/
+	font-size: 50px;
+	padding-top: 200px;
+}
+.last{
+	padding-bottom: 100px;
+	color: red;
+}
+
+/*.emailform{
+	padding-top: 0px;
+
+}*/
+.head{
+	padding-bottom: 0px;
+	padding-right: 0px;
+}
+.fa {
+    padding: 20px;
+    font-size: 20px;
+    width: 20px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.fb{
+	color: blue;
+	padding-bottom: 0px;
+	
+}
+.fa-facebook {
+    /*background: #3B5998;*/
+    color: blue;
+    size: 20px;
+    padding-bottom: 0px;
+    
+}
+
+
+.insta{
+	color: red;
+	padding-bottom: 0px;
+}
+
+.fa-instagram {
+    /*background: #55ACEE;*/
+    color: red;
+    padding-bottom: 0px;
+}
+.google{
+	color: red;
+	padding-bottom: 0px;
+}
+.fa-google-plus{
+	/*background: #e21d16;*/
+	color: red;
+	padding-bottom: 0px;
+}
